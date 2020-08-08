@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="so_procesos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/so_procesos_jar</output-path>
+    <root id="archive" name="so_procesos.jar">
+      <element id="module-output" name="so_procesos" />
+    </root>
+  </artifact>
+</component>
